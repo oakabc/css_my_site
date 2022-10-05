@@ -1,0 +1,31 @@
+div {
+background-color: #C7F2A4
+
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.example-div {
+  background-color: powderblue;
+height: 300px;
+width: 300px;
+padding: 20px;
+}
+
+.middle-container {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
